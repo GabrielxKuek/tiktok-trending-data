@@ -20,6 +20,15 @@ All pages are downloaded as JSON and prettyfied with jq. A commit is made whenev
 - `03/20/2021`: Disabled because TikTok now has captchas preventing collection of open trending data
 
 # Note for Self
+This server is also running on render. In order to use it, please run
+```
+https://tiktok-trending-data.onrender.com/api/{example_endpoint}
+```
+
+if you want to run it locally, please use 
+```
+localhost:8000/api/{example_endpoint}
+```
 ## Discover Endpoints
 Different TikTok discover endpoints and their purposes:
 
