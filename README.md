@@ -18,3 +18,28 @@ All pages are downloaded as JSON and prettyfied with jq. A commit is made whenev
 - `01/06/2023`: scrape machine broke
 - `12/19/2021`: Re-enabled the workflow, test run returned good data
 - `03/20/2021`: Disabled because TikTok now has captchas preventing collection of open trending data
+
+# Note for Self
+## Discover Endpoints
+Different TikTok discover endpoints and their purposes:
+
+discover-t.json: Verification/captcha check endpoint
+discover-www.json: Global trending content for desktop web (www.tiktok.com)
+discover-us.json: US-specific trending content (us.tiktok.com)
+discover-m.json: Mobile-optimized trending content (m.tiktok.com)
+
+All content endpoints (www/us/m) return three types:
+
+Type 2: Verified accounts
+Type 3: Hashtags/challenges
+Type 1: Music tracks
+
+## Discover List Endpoints
+The list endpoints (discover-list-www.json and discover-list-us.json) provide simplified trending data:
+
+Returns only hashtags (type 3) and music (type 4)
+Shows direct links to content
+More compact format without additional metadata
+Both US and WWW endpoints return identical data
+
+Unlike the main discover endpoints, these list versions focus purely on what's trending without extra details like view counts or descriptions.
