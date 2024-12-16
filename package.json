@@ -1,0 +1,14 @@
+{
+  "name": "tiktok-trending-data",
+  "version": "1.0.0",
+  "description": "This repo scrapes TikToks Web API automatically using GitHub Actions and monitors changes to its discovery endpoint on 3 different subdomains.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
