@@ -38,10 +38,10 @@ discover-us.json: US-specific trending content (us.tiktok.com)
 discover-m.json: Mobile-optimized trending content (m.tiktok.com)
 
 All content endpoints (www/us/m) return three types:
-
-Type 2: Verified accounts
-Type 3: Hashtags/challenges
-Type 1: Music tracks
+ </br>
+Type 1: Music tracks </br>
+Type 2: Verified accounts </br>
+Type 3: Hashtags/challenges </br>
 
 ## Discover List Endpoints
 The list endpoints (discover-list-www.json and discover-list-us.json) provide simplified trending data:
