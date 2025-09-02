@@ -3913,19 +3913,6 @@
     "source": 1
   },
   {
-    "id": 15012,
-    "name": "King Leonardo",
-    "describe": "sent King Leonardo",
-    "diamond_count": 42999,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/dea6aa2fbb6622c2b8c95313c50b0d13.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
     "id": 16378,
     "name": "Rilakkuma's summer vacation",
     "describe": "sent Rilakkuma's summer vacation",
@@ -3933,6 +3920,19 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/66b4d9acd62cab59e9d74311d096c828.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 15011,
+    "name": "Light Castle",
+    "describe": "sent Light Castle",
+    "diamond_count": 25999,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/d4b287cbc15d1c10111c1a86945b5d40.png~tplv-obj.webp"
       ]
     },
     "type": 2,
@@ -3952,19 +3952,6 @@
     "source": 1
   },
   {
-    "id": 15010,
-    "name": "Chrono Rewinder",
-    "describe": "sent Chrono Rewinder",
-    "diamond_count": 14999,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/a38711c7a066f79acc061cec0fa16d67.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
     "id": 16377,
     "name": "Grand Prix Stage",
     "describe": "sent Grand Prix Stage",
@@ -3972,19 +3959,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/4ab2b1c3d5ce336a97eeaf2a8f131c00.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 15011,
-    "name": "Light Castle",
-    "describe": "sent Light Castle",
-    "diamond_count": 25999,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/d4b287cbc15d1c10111c1a86945b5d40.png~tplv-obj.webp"
       ]
     },
     "type": 2,
@@ -4014,6 +3988,32 @@
       ]
     },
     "type": 4,
+    "source": 1
+  },
+  {
+    "id": 15010,
+    "name": "Chrono Rewinder",
+    "describe": "sent Chrono Rewinder",
+    "diamond_count": 14999,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/a38711c7a066f79acc061cec0fa16d67.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 15012,
+    "name": "King Leonardo",
+    "describe": "sent King Leonardo",
+    "diamond_count": 42999,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/dea6aa2fbb6622c2b8c95313c50b0d13.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
     "source": 1
   },
   {
@@ -5265,19 +5265,6 @@
     "source": 2
   },
   {
-    "id": 16408,
-    "name": "Heart Superstage",
-    "describe": "sent Heart Superstage",
-    "diamond_count": 15000,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/103edecd716e9600e77e6fb38cfbb1f1.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 2
-  },
-  {
     "id": 11091,
     "name": "Gaming Console",
     "describe": "sent Gaming Console",
@@ -6416,6 +6403,19 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/912d29e708fe00d72487908114803e77.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 2
+  },
+  {
+    "id": 16408,
+    "name": "Heart Superstage",
+    "describe": "sent Heart Superstage",
+    "diamond_count": 15000,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/103edecd716e9600e77e6fb38cfbb1f1.png~tplv-obj.webp"
       ]
     },
     "type": 2,
