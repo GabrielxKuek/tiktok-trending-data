@@ -3952,19 +3952,6 @@
     "source": 1
   },
   {
-    "id": 16130,
-    "name": "Tiny Diny Hotdog",
-    "describe": "sent Tiny Diny Hotdog",
-    "diamond_count": 20,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/a03e11b24f157a26c49cac518450573f.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 1
-  },
-  {
     "id": 9101,
     "name": "TikTok Universe",
     "describe": "sent TikTok Universe",
@@ -3975,6 +3962,19 @@
       ]
     },
     "type": 2,
+    "source": 1
+  },
+  {
+    "id": 16130,
+    "name": "Tiny Diny Hotdog",
+    "describe": "sent Tiny Diny Hotdog",
+    "diamond_count": 20,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/a03e11b24f157a26c49cac518450573f.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
     "source": 1
   },
   {
